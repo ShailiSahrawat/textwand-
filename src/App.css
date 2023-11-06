@@ -1,0 +1,27 @@
+
+body{
+  background-image: url("bg2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 1;
+  
+}
+
+
+
+.navbar{
+ position: sticky;
+  background-color: rgb(49, 8, 8);
+  columns: white;
+  z-index: 2;
+  opacity: 1;
+  font-size: 23px;
+  text-align: center;
+  display: flex;
+}
+.btn{
+  background: #a80f0f;
+}
+/* .custom-toggler .navbar-toggler-icon {
+  background: white;
+} */
