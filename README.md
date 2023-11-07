@@ -8,13 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##### Convert Uppercase
 ![Image Description](https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(63).png)
-![Image Description](https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(64).png)
+![Image Description](https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(67).png)
 
 
 ##### Remove Extraspaces
-![Image Description](https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(65).png)
-![Image Description](https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(66).png)
-![Image Description](https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(67).png)
+(https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(67).png)
 ![Image Description](https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(68).png)
 ![Image Description](https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(69).png)
 
