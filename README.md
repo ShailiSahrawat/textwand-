@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ##### Remove Extraspaces
-(https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(67).png)
+
 ![Image Description](https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(68).png)
 ![Image Description](https://github.com/ShailiSahrawat/textwand-/blob/master/Screenshot%20(69).png)
 
